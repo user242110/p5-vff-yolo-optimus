@@ -1,0 +1,39 @@
+[2.584s] Invoking command in '/home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/p5_vff_yolo build --build-base /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/build install --record /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/install.log --single-version-externally-managed install_data
+[3.112s] running egg_info
+[3.113s] creating build/p5_vff_yolo/p5_vff_yolo.egg-info
+[3.156s] writing build/p5_vff_yolo/p5_vff_yolo.egg-info/PKG-INFO
+[3.159s] writing dependency_links to build/p5_vff_yolo/p5_vff_yolo.egg-info/dependency_links.txt
+[3.161s] writing entry points to build/p5_vff_yolo/p5_vff_yolo.egg-info/entry_points.txt
+[3.162s] writing requirements to build/p5_vff_yolo/p5_vff_yolo.egg-info/requires.txt
+[3.163s] writing top-level names to build/p5_vff_yolo/p5_vff_yolo.egg-info/top_level.txt
+[3.368s] writing manifest file 'build/p5_vff_yolo/p5_vff_yolo.egg-info/SOURCES.txt'
+[3.809s] reading manifest file 'build/p5_vff_yolo/p5_vff_yolo.egg-info/SOURCES.txt'
+[3.811s] writing manifest file 'build/p5_vff_yolo/p5_vff_yolo.egg-info/SOURCES.txt'
+[3.813s] running build
+[3.813s] running build_py
+[3.814s] creating /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/build
+[3.814s] creating /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/build/lib
+[3.815s] creating /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/build/lib/p5_vff_yolo
+[3.817s] copying p5_vff_yolo/__init__.py -> /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/build/lib/p5_vff_yolo
+[3.819s] copying p5_vff_yolo/follow_person_node.py -> /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/build/lib/p5_vff_yolo
+[3.822s] running install
+[3.828s] running install_lib
+[3.874s] creating /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/lib/python3.12/site-packages/p5_vff_yolo
+[3.875s] copying /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/build/lib/p5_vff_yolo/__init__.py -> /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/lib/python3.12/site-packages/p5_vff_yolo
+[3.878s] copying /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/build/lib/p5_vff_yolo/follow_person_node.py -> /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/lib/python3.12/site-packages/p5_vff_yolo
+[3.883s] byte-compiling /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/lib/python3.12/site-packages/p5_vff_yolo/__init__.py to __init__.cpython-312.pyc
+[3.887s] byte-compiling /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/lib/python3.12/site-packages/p5_vff_yolo/follow_person_node.py to follow_person_node.cpython-312.pyc
+[3.893s] running install_data
+[3.894s] creating /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/share/ament_index
+[3.894s] creating /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/share/ament_index/resource_index
+[3.895s] creating /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/share/ament_index/resource_index/packages
+[3.896s] copying resource/p5_vff_yolo -> /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/share/ament_index/resource_index/packages
+[3.899s] copying package.xml -> /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/share/p5_vff_yolo
+[3.901s] creating /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/share/p5_vff_yolo/launch
+[3.902s] copying launch/follow_person.launch.py -> /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/share/p5_vff_yolo/launch
+[3.905s] running install_egg_info
+[3.950s] Copying build/p5_vff_yolo/p5_vff_yolo.egg-info to /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/lib/python3.12/site-packages/p5_vff_yolo-0.0.1-py3.12.egg-info
+[3.979s] running install_scripts
+[4.091s] Installing follow_person_node script to /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/lib/p5_vff_yolo
+[4.094s] writing list of installed files to '/home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/install.log'
+[4.137s] Invoked command in '/home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/install/p5_vff_yolo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/p5_vff_yolo build --build-base /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/build install --record /home/alumnos/angelfr/Descargas/ROBOTICA/PRACTICAS/p5-vff-yolo-optimus/p5_vff_yolo/build/p5_vff_yolo/install.log --single-version-externally-managed install_data

@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: p5-vff-yolo
+Version: 0.0.1
+Summary: P5: Follow person using VFF + YOLO with FSM (search/follow)
+Maintainer: Angel Ruiz
+Maintainer-email: a.ruizf.2022@alumnos.urjc.es
+License: Apache-2.0
+Provides-Extra: test

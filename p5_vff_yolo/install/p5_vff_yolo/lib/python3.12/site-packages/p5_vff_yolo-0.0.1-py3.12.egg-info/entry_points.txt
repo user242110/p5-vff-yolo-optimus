@@ -1,0 +1,2 @@
+[console_scripts]
+follow_person_node = p5_vff_yolo.follow_person_node:main
